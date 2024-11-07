@@ -10,3 +10,4 @@ A curated list of directory of directories,  feel free to add yours
 * [aidirectori.es](https://aidirectori.es)
 * [AI Directories](https://github.com/best-of-ai/ai-directories)
 * [DirectoryPulse](https://directorypulse.pro/)
+* [Awesome Directories](https://github.com/directorieswiki/awesome-directories)
