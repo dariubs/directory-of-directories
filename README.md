@@ -11,3 +11,4 @@ A curated list of directory of directories,  feel free to add yours
 - [uneed directories](https://uneed-directories.com)
 - [webdirectorycenter](https://webdirectorycenter.com)
 - [yo.directory](https://yo.directory)
+- [submitsaas.com](https://submitsaas.com)
