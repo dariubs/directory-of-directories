@@ -12,3 +12,5 @@ A curated list of directory of directories,  feel free to add yours
 - [webdirectorycenter](https://webdirectorycenter.com)
 - [yo.directory](https://yo.directory)
 - [submitsaas.com](https://submitsaas.com)
+- [SaasDirectori.es](https://SaasDirectori.es)
+- [Best Directories](https://bestdirectories.org/)
