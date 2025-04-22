@@ -7,6 +7,7 @@ This repository is a curated collection of websites and platforms that list, cat
 - **[Directories Wiki](https://directories.wiki):** An open-source repository that compiles a wide array of directories, serving as a valuable resource for discovering niche-specific listings.
 - **[AI Directories](https://github.com/best-of-ai/ai-directories):** A GitHub repository compiling a list of AI-related directories, serving as a resource for AI enthusiasts and developers.
 - **[AI Agents Directories](https://github.com/alternbits/awesome-ai-agents-directories):** A comprehensive list of the best AI agent directories available online.
+- **[SaaS Directories](https://github.com/mahseema/awesome-saas-directories):** A comprehensive list of the best SaaS directories available online.
 - **[DirectoryPulse](https://directorypulse.pro/):** A platform that provides insights and analytics on various directories, aiding users in identifying optimal directories for submissions.
 - **[webdirectorycenter](https://webdirectorycenter.com):** A list of free directories for submitting AI products, providing a centralized resource for AI tool developers. 
 - **[yo.directory](https://yo.directory):** A meta-directory that indexes other directories, facilitating users in finding directories pertinent to their interests or industries.
