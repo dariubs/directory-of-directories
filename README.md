@@ -4,6 +4,7 @@ Welcome to the ultimate directory of directories!
 
 This repository is a curated collection of websites and platforms that list, categorize, and provide access to directories across various niches, including SaaS, AI, design, and more. Whether you're looking to promote your product, find niche-specific listings, or explore comprehensive directory collections, this is your one-stop resource.
 
+- **[Directory Surf](https://directory.surf):** A Directory of Top Directories
 - **[Directories Wiki](https://directories.wiki):** An open-source repository that compiles a wide array of directories, serving as a valuable resource for discovering niche-specific listings.
 - **[AI Directories](https://github.com/best-of-ai/ai-directories):** A GitHub repository compiling a list of AI-related directories, serving as a resource for AI enthusiasts and developers.
 - **[AI Agents Directories](https://github.com/alternbits/awesome-ai-agents-directories):** A comprehensive list of the best AI agent directories available online.
