@@ -19,5 +19,6 @@ This repository is a curated collection of websites and platforms that list, cat
 - **[uneed directories](https://uneed-directories.com):** A collection of categorized directories aimed at helping users uncover valuable resources, gain backlinks, and boost website traffic. 
 - **[Best Directories](https://bestdirectories.org/):** An ultimate directory of directories, assisting users in discovering top-rated directories across various niches to promote their products or services. 
 - **[submitsaas.com](https://submitsaas.com):** A service that facilitates the submission of SaaS products to over 100 directories, aiming to save time and enhance online presence for SaaS businesses. 
-- **[SaasDirectori.es](https://SaasDirectori.es):** A platform designed to list SaaS products on multiple directories, aiming to boost SEO, increase domain authority, and attract paying users organically. 
+- **[SaasDirectori.es](https://SaasDirectori.es):** A platform designed to list SaaS products on multiple directories, aiming to boost SEO, increase domain authority, and attract paying users organically.
+- **[Submit SaaS](https://submitsaas.com/) - List of saas directories
 - **[SeoMode](https://seomode.co):** A service that submits your SaaS to 100+ directories, writes niche blog articles using topical maps, and builds comparison pages (“Your SaaS vs Competitor”), so you can rank on Google and grow your domain authority fast.
