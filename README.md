@@ -8,6 +8,7 @@ This repository is a curated collection of websites and platforms that list, cat
 - **[Directories Wiki](https://directories.wiki):** An open-source repository that compiles a wide array of directories, serving as a valuable resource for discovering niche-specific listings.
 - **[AI Directories](https://github.com/best-of-ai/ai-directories):** A GitHub repository compiling a list of AI-related directories, serving as a resource for AI enthusiasts and developers.
 - **[AI Agents Directories](https://github.com/alternbits/awesome-ai-agents-directories):** A comprehensive list of the best AI agent directories available online.
+- **[AI Tools Hub](https://richlyai.com/ai-tools):** A Tools directory.
 - **[Awesome Launch Platforms](https://github.com/dakotamin/awesome-launch-platforms)** - A Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.
 - **[SaaS Directories](https://github.com/mahseema/awesome-saas-directories):** A comprehensive list of the best SaaS directories available online.
 - **[DirectoryPulse](https://directorypulse.pro/):** A platform that provides insights and analytics on various directories, aiding users in identifying optimal directories for submissions.
