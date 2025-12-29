@@ -4,7 +4,6 @@ Welcome to the ultimate directory of directories!
 
 This repository is a curated collection of websites and platforms that list, categorize, and provide access to directories across various niches, including SaaS, AI, design, and more. Whether you're looking to promote your product, find niche-specific listings, or explore comprehensive directory collections, this is your one-stop resource.
 
-- **[300 AI Directories](https://300aidirectories.com):** A curated service that manually submits AI tools to 300+ directories, with a prioritized list and a detailed submission report.
 - **[Top AI Directories](https://topaidirectories.com)**: Get your AI product discovered by millions—everywhere people search the internet.
 - **[Directory Surf](https://directory.surf):** A Directory of Top Directories
 - **[Directories Wiki](https://directories.wiki):** An open-source repository that compiles a wide array of directories, serving as a valuable resource for discovering niche-specific listings.
@@ -24,3 +23,4 @@ This repository is a curated collection of websites and platforms that list, cat
 - **[SaasDirectori.es](https://SaasDirectori.es):** A platform designed to list SaaS products on multiple directories, aiming to boost SEO, increase domain authority, and attract paying users organically.
 - **[Submit SaaS](https://submitsaas.com/)** - List of saas directories
 - **[SeoMode](https://seomode.co):** A service that submits your SaaS to 100+ directories, writes niche blog articles using topical maps, and builds comparison pages (“Your SaaS vs Competitor”), so you can rank on Google and grow your domain authority fast.
+- **[300 AI Directories](https://300aidirectories.com):** A curated service that manually submits AI tools to 300+ directories, with a prioritized list and a detailed submission report.
