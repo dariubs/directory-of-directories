@@ -24,3 +24,4 @@ This repository is a curated collection of websites and platforms that list, cat
 - **[Submit SaaS](https://submitsaas.com/)** - List of saas directories
 - **[SeoMode](https://seomode.co):** A service that submits your SaaS to 100+ directories, writes niche blog articles using topical maps, and builds comparison pages (“Your SaaS vs Competitor”), so you can rank on Google and grow your domain authority fast.
 - **[300 AI Directories](https://300aidirectories.com):** A curated service that manually submits AI tools to 300+ directories, with a prioritized list and a detailed submission report.
+- **[PickYourTech](https://www.pickyourtech.com) - Catalog of open-source projects, categorized with detailed metadata and open-source alternatives to popular SaaS platforms.
