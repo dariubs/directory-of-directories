@@ -8,6 +8,7 @@ This repository is a curated collection of websites and platforms that list, cat
 - **[Directory Surf](https://directory.surf):** A Directory of Top Directories
 - **[Directories Wiki](https://directories.wiki):** An open-source repository that compiles a wide array of directories, serving as a valuable resource for discovering niche-specific listings.
 - **[AI Directories](https://github.com/best-of-ai/ai-directories):** A GitHub repository compiling a list of AI-related directories, serving as a resource for AI enthusiasts and developers.
+- **[OpenInvoke](https://openinvoke.com):** A curated, human-reviewed directory of AI agents and callable tools with free listings, built for agent builders looking for tools their agents can actually invoke.
 - **[AI Agents Directories](https://github.com/alternbits/awesome-ai-agents-directories):** A comprehensive list of the best AI agent directories available online.
 - **[Awesome Launch Platforms](https://github.com/dakotamin/awesome-launch-platforms)** - A Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.
 - **[SaaS Directories](https://github.com/mahseema/awesome-saas-directories):** A comprehensive list of the best SaaS directories available online.
