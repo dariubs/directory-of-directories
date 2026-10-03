@@ -24,3 +24,4 @@ This repository is a curated collection of websites and platforms that list, cat
 - **[Submit SaaS](https://submitsaas.com/)** - List of saas directories
 - **[SeoMode](https://seomode.co):** A service that submits your SaaS to 100+ directories, writes niche blog articles using topical maps, and builds comparison pages (“Your SaaS vs Competitor”), so you can rank on Google and grow your domain authority fast.
 - **[300 AI Directories](https://300aidirectories.com):** A curated service that manually submits AI tools to 300+ directories, with a prioritized list and a detailed submission report.
+- **[Directory Dash](https://directorydash.io/directory):** A launch directory where the submission form is a rage game about directory rejection. Reach a flag to be listed (nofollow); clear the level for a dofollow link. Free, no signup.
