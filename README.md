@@ -11,6 +11,7 @@ This repository is a curated collection of websites and platforms that list, cat
 - **[AI Agents Directories](https://github.com/alternbits/awesome-ai-agents-directories):** A comprehensive list of the best AI agent directories available online.
 - **[Awesome Launch Platforms](https://github.com/dakotamin/awesome-launch-platforms)** - A Curated list of platforms where you can launch, promote, and showcase your startup, product, or side project.
 - **[SaaS Directories](https://github.com/mahseema/awesome-saas-directories):** A comprehensive list of the best SaaS directories available online.
+- **[Where to promote your startup](https://mediapronet.com/where-to-promote-your-startup):** A guide listing places to launch and promote a startup, grouped by channel type, with submission rules and costs
 - **[DirectoryPulse](https://directorypulse.pro/):** A platform that provides insights and analytics on various directories, aiding users in identifying optimal directories for submissions.
 - **[webdirectorycenter](https://webdirectorycenter.com):** A list of free directories for submitting AI products, providing a centralized resource for AI tool developers. 
 - **[yo.directory](https://yo.directory):** A meta-directory that indexes other directories, facilitating users in finding directories pertinent to their interests or industries.
